@@ -1,6 +1,3 @@
-Here's a basic **README** file for your project, explaining the purpose, structure, and how to use the script.
-
----
 
 # Handshake Job Scraper
 
